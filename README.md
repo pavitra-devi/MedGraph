@@ -55,9 +55,11 @@ FalkorDB stores patient, visit, medicine, prescription, and report metadata/text
 
 ### Graph data model
 
-![alt text](image-1.png)
+<img width="1102" height="565" alt="image" src="https://github.com/user-attachments/assets/7886d634-a81a-4934-b0d4-7a99a00b671b" />
 
-![alt text](image-2.png)
+
+<img width="1010" height="584" alt="image" src="https://github.com/user-attachments/assets/297be0c3-43a9-4190-a3ba-15f742ef87d5" />
+
 
 ```text
 (:Patient {patient_id, name, created_at})
